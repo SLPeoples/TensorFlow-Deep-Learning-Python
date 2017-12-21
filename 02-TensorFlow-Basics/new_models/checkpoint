@@ -1,2 +1,2 @@
-model_checkpoint_path: "my_second_model.ckpt"
-all_model_checkpoint_paths: "my_second_model.ckpt"
+model_checkpoint_path: "model_from_course.ckpt"
+all_model_checkpoint_paths: "model_from_course.ckpt"
