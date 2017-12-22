@@ -1,2 +1,0 @@
-model_checkpoint_path: "500_epoch_model.ckpt"
-all_model_checkpoint_paths: "500_epoch_model.ckpt"
